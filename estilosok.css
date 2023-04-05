@@ -1,0 +1,97 @@
+
+* {
+   color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    box-sizing: border-box;     
+}
+
+.primera {
+    text-align: center;
+    padding: 10px 20px;
+    background-color: rgb(235, 211, 223);
+  color: black;
+    border-radius: 50px 20px; 
+
+}
+.segunda {
+    text-align: center;
+    padding: 10px 20px;
+   background-color: rgb(166, 226, 226);
+    color: black;
+    border-radius: 50px 20px; 
+
+}
+.tercera {
+    text-align: center;
+    padding: 10px 20px;
+    background-color: lightskyblue;
+    color: black;
+    border-radius: 50px 20px; 
+}
+
+#lafoto {
+    position: absolute;
+  
+}
+.anteprimera-container {
+ margin-bottom:  0px;
+ background-color: lightblue;
+background-size:  20px;
+    color: black;
+    border-radius: 50px 20px; 
+    text-align: center;
+    font-size: large bold;
+    align-items: flex-start;
+    justify-content: space-around;
+   
+
+    flex-wrap: nowrap;
+    flex-direction: row;
+    display: flex;
+   }
+   
+.item {
+  
+  border: 0px;
+ width: auto;
+   
+}
+ul.list {
+        list-style: square;
+        display: inline-block;
+        text-align: left;
+    }
+.segunda.list, #li {   
+        font-weight: 200;
+        font-style: italic;
+        font-weight: bold;
+           }
+
+button {
+        margin-top: 20px;
+        padding: 10px 20px;
+        background-color: green;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+}    
+#myHeader {border-radius: 20px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    background-size:  20px;
+    background-color: lightblue;
+    padding: 20px;
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+    font-size: xx-large;
+}
+  .segunda.list ,p {
+    font-style: oblique;
+  }
+  .titulo{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+  }

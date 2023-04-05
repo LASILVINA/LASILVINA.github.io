@@ -1,0 +1,3 @@
+
+function imprimirCV() {
+    window.print();}
